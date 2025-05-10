@@ -29,11 +29,6 @@ I’m a software engineering graduate with a strong foundation in JavaScript, Ty
 - 💬 **Ask Me About:**  
   Full-stack development, React, React-Native, Node.js, Cloud technologies, or software security.
 
----
-
-## 📈 GitHub Stats
-
-![Bar Cohen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bar1996&show_icons=true&theme=radical)
 
 ---
 
